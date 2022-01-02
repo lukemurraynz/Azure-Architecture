@@ -13,6 +13,8 @@ otherwise, you could end up solving for problems that don't exist, missing an
 important design decision, or going beyond the available budget by adding
 unnecessary resiliency.
 
+![Requirements and Architecture](/images/RequirementsAndArchitecture.png "Requirements and Architecture")
+
 **Non-functional requirements (NFRs)**
 
 Below is a short-list of NFRs (not exhaustive) that may be provided by the
