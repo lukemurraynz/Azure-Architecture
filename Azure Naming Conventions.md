@@ -19,11 +19,11 @@ The use of these limitations and scopes have been used to determine the
 following naming conventions, across IT Partners and associated client
 resources.
 
-| Name Format  | {organizationName}-{component}-{resourceTypeshortCode}-{regionShortCode}-{environmentlongcode} |
-|--------------|------------------------------------------------------------------------------------------------|
-| Casing       | Lowercase                                                                                      |
+| **Casing** | **Name Format**                                                                                |
+|------------|------------------------------------------------------------------------------------------------|
+| Lowercase  | {organizationName}-{component}-{resourceTypeshortCode}-{regionShortCode}-{environmentlongcode} |
 
-Naming Convention Examples
+### Naming Convention Examples
 
 | Environment | Application Name | Azure Region   | Azure Service                             | Example Name                          |
 |-------------|------------------|----------------|-------------------------------------------|---------------------------------------|
@@ -72,7 +72,7 @@ Naming Convention Examples
 | Production  | application1     | Australia East | Virtual Network                           | company-application1-vn-au-e-prod     |
 | Production  | application1     | Australia East | Virtual Network Gateway                   | company-application1-vngw-au-e-prod   |
 
-Resource Type Codes
+### Resource Type Codes
 
 | Resource Type                             | Short Code | Scope              | Character Limit |
 |-------------------------------------------|------------|--------------------|-----------------|
@@ -122,7 +122,7 @@ Resource Type Codes
 | Virtual Network                           | vn         | Resource Group     | 63              |
 | Virtual Network Gateway                   | vngw       | Resource Group     | 80              |
 
-Environment Names
+### Environment Names
 
 | Environment Name | Long Code |
 |------------------|-----------|
@@ -131,7 +131,7 @@ Environment Names
 | Staging          | stg       |
 | Production       | prod      |
 
-Azure Regions
+### Azure Regions
 
 | Azure Region        | Geo Short Code | Datacentre Short Code | Short Code |
 |---------------------|----------------|-----------------------|------------|
