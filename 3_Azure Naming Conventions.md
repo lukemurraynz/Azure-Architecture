@@ -71,7 +71,7 @@ following naming conventions, across associated client resources.
 | Production  | application1     | Australia East | Virtual Network                           | company-application1-vn-au-e-prod     |
 | Production  | application1     | Australia East | Virtual Network Gateway                   | company-application1-vngw-au-e-prod   |
 
-![Azure Naming Scopes](images\AzureNaming.png "Azure Naming Scopes")
+![Azure Naming Scopes](/images/AzureNaming.png "Azure Naming Scopes")
 
 ### Resource Type Codes
 
