@@ -43,4 +43,4 @@ BAU/Cloud Operations on a continuous basis.
 
 -   Resize
 
--   Move to PAAS
+-   Move to PaaS
