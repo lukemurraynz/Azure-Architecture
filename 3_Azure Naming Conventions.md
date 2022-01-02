@@ -16,8 +16,7 @@ machine DNS labels, have global scopes, so they must be unique across the Azure
 platform.
 
 The use of these limitations and scopes have been used to determine the
-following naming conventions, across IT Partners and associated client
-resources.
+following naming conventions, across associated client resources.
 
 | **Casing** | **Name Format**                                                                                |
 |------------|------------------------------------------------------------------------------------------------|
@@ -71,6 +70,8 @@ resources.
 | Production  | application1     | Australia East | Virtual machine scale set                 | company-application1-vmss-au-e-prod   |
 | Production  | application1     | Australia East | Virtual Network                           | company-application1-vn-au-e-prod     |
 | Production  | application1     | Australia East | Virtual Network Gateway                   | company-application1-vngw-au-e-prod   |
+
+![Azure Naming Scopes](images\AzureNaming.png "Azure Naming Scopes")
 
 ### Resource Type Codes
 
