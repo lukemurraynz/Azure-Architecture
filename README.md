@@ -1,5 +1,5 @@
 # Azure Architecture
-Architecture resources, toolkits for People/Process I have put together (and/or collated), to help on your Azure/Cloud journey.
+Architecture resources, toolkits for People/Process I have put together (and/or collated), to help get you started on your Azure journey and develop your governance.
 
 Feel free to fork, lodge pull requests for any changes/recommendations etc.
 
