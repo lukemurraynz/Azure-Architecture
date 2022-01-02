@@ -19,7 +19,7 @@ Below is a short-list of NFRs (not exhaustive) that may be provided by the
 business to help inform the design of a solution.
 
 [**Reliability
-requirements**](https://docs.microsoft.com/en-gb/azure/architecture/framework/resiliency/overview#define-requirements){:target="_blank"}
+requirements**](https://docs.microsoft.com/en-gb/azure/architecture/framework/resiliency/overview#define-requirements)
 
 -   Service level agreement (SLA)
 
@@ -30,7 +30,7 @@ requirements**](https://docs.microsoft.com/en-gb/azure/architecture/framework/re
 -   Recovery point objective (RPO)
 
 [**Security
-requirements**](https://docs.microsoft.com/en-gb/azure/architecture/framework/security/governance){:target="_blank"}
+requirements**](https://docs.microsoft.com/en-gb/azure/architecture/framework/security/governance)
 
 -   Geographical location
 
@@ -85,7 +85,7 @@ requirements**](https://docs.microsoft.com/en-gb/azure/architecture/framework/se
 **Azure SLAs**
 
 -   Familiarize yourself with [Azure service-level
-    agreements](https://azure.microsoft.com/en-au/support/legal/sla/){:target="_blank"}.
+    agreements](https://azure.microsoft.com/en-au/support/legal/sla/)
 
 -   An Azure Service-level Agreement (SLA) can also be read as a minimum
     service-level objective (SLO).
@@ -96,7 +96,7 @@ requirements**](https://docs.microsoft.com/en-gb/azure/architecture/framework/se
     for each service, which give important hints about failure modes
 
 For example, in the [SLA for Azure SQL
-Database](https://azure.microsoft.com/en-au/support/legal/sla/sql-database/v1_4/){:target="_blank"},
+Database](https://azure.microsoft.com/en-au/support/legal/sla/sql-database/v1_4/),
 "downtime" is defined as:
 
 "The total accumulated Deployment Minutes across all Databases in a given
